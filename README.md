@@ -112,8 +112,8 @@ streamlit run traffic_sign_recog.py
 
 ## 👨‍💻 Author
 
-**Ummee Habiba**  
-[GitHub Profile](https://github.com/Ummee-Habiba)
+**Muhammad Abdullah**  
+[GitHub Profile](https://github.com/abdullahh263)
 ---
 
 ## 🏷️ License
